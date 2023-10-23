@@ -80,7 +80,8 @@ h1, h2 {
 }
 
 .userFlash{
-    background-color: rgb(0, 255, 60);
+    background-color: rgb(187, 187, 187);
+    border: 7px solid black;
 } 
 
 .btn:hover {
