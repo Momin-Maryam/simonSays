@@ -43,6 +43,22 @@ h1, h2 {
     border:7px solid rgb(255, 255, 255);
 }
 
+@media (max-width: 600px) {
+    .btn {
+        height: 120px;
+        width: 120px;
+        font-size: 14px;
+    }
+
+    h1 {
+        font-size: 24px;
+    }
+
+    h2 {
+        font-size: 18px;
+    }
+}
+
 .red {
     background-color: #ff4444;
     color: #fff;
